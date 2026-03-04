@@ -125,7 +125,7 @@ export default function App() {
               Gå til projekter
             </Link>
             <a
-              href="mailto:youremail@example.com"
+              href="mailto:theodorenghoff@gmail.com"
               className="btn btn--ghost"
               aria-label="Send email"
             >
